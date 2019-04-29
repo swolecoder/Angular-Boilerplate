@@ -1,6 +1,6 @@
 # Angular-Boilerplate
 
-Starter Angular App [Angular CLI](https://github.com/angular/angular-cli)
+Starter Angular App 
 
 ## Development server
 
